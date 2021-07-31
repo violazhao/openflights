@@ -6,7 +6,7 @@ Program finds the shortest airplane paths between two cities, possibly with a st
 
 ## Dependencies
 
-Utilizes Dijkstra's Algorithm (BFS), OpenFlights routes database (https://openflights.org/data.html), C++, VSCode
+Utilizes Dijkstra's Algorithm (BFS), OpenFlights routes database (https://openflights.org/data.html), written in C++
 
 ## Usage
 
