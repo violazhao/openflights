@@ -9,11 +9,7 @@ using all of the data however, I decided to use a smaller sample. By using an ac
 
 Utilizes Dijkstra's Algorithm (BFS), OpenFlights routes database, C++, VSCode
 
-## Installation
-
-Simply download the project from GitHub.
-
-## How to use?
+## Usage
 
 Once the project is downloaded, add your routes dataset into the project folder (your dataset must be a text file formatted like the OpenFlights dataset, or you can just use the OpenFlights one.)
 
